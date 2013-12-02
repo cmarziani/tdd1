@@ -1,0 +1,7 @@
+# Package files
+*.jar
+*.war
+*.ear
+# Divers
+toto.txt
+*~
